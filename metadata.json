@@ -1,0 +1,6 @@
+{
+  "name": "EMCI Student Concern & Complaint Management System",
+  "description": "A centralized Web-Based Student Concern and Complaint Management System for Eastern Mindoro College, Inc. featuring online submission, real-time ticket tracking, role-based administration, ISO 25010 evaluation, and grievance resolution analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
